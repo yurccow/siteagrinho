@@ -1,11 +1,25 @@
-:root{
-    --fundo: #c70000;
-    --fundo2:#E13B6D;
-}
-body{ 
-    background-color: var(--fundo);
+*{
+    margin: 0;
+    padding: 0;
 }
 
-img{
-    width: 5%;
+header{
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    margin: 10px 0;
+    padding: 10px 20px;
+}
+
+div{
+    padding: 30px;
 }
