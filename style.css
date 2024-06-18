@@ -4,7 +4,8 @@
 }
 
 body{
-    background-color: black;
+    width: 100%;
+    height: 100%;
 }
 
 
@@ -15,11 +16,8 @@ header{
 }
 
 .barra {
-        background-color: black;
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        height: 35px;  
+    width: 100%;
+    background-color: black;
+    height: 60px;
 }
 
