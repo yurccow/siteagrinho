@@ -51,3 +51,5 @@ header{
 .container p{
     width: 300px;
 }
+
+.container {width: 700px;}
