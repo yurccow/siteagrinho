@@ -38,7 +38,5 @@ header{
 
 .imginfo {
     width: 30%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin-block-end: 50px;
 }
