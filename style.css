@@ -41,3 +41,13 @@ header{
     margin-inline-start: 65%;
     margin-top: 1%;
 }
+
+.container img{
+    width: 300px;
+    float: right;
+    margin-left: 20px;
+}
+
+.container p{
+    width: 300px;
+}
