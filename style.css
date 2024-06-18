@@ -42,18 +42,6 @@ header{
     margin-top: 1%;
 }
 
-.container{
-    display: inline-flex;
+img, p{
+    display: inline-block;
 }
-
-.container img{
-    width: 300px;
-    float: right;
-    margin-left: 20px;
-}
-
-.container p{
-    width: 300px;
-}
-
-.container {width: 700px;}
