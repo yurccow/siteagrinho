@@ -25,7 +25,13 @@ header{
     font-size: 50%;
 }
 
+.textsub {
+    padding: 1%;
+    margin: 2px 0;
+}
+
 .text {
     padding: 1%;
     margin: 2px 0;
+    font-size: 12px;
 }
