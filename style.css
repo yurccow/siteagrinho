@@ -38,6 +38,9 @@ header{
 
 .imginfo {
     width: 30%;
+}
+
+.info {
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
