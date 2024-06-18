@@ -21,7 +21,7 @@ header{
 
 .titulo {
     display: flex;
-    align-items: center;
+    align-items: end;
     justify-content: flex-start;
     color: white;
     font-size: 10px;
