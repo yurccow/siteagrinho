@@ -42,6 +42,10 @@ header{
     margin-top: 1%;
 }
 
+.container{
+    display: inline-flex;
+}
+
 .container img{
     width: 300px;
     float: right;
