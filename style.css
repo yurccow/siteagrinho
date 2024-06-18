@@ -38,5 +38,5 @@ header{
 
 .imginfo {
     width: 30%;
-    margin-block-end: 50px;
+    margin-inline-start: 50%;
 }
