@@ -20,7 +20,8 @@ header{
 }
 
 .titulo {
-    display: flex;
+    display: grid;
+    grid-template-rows: auto;
     align-items: center;
     justify-content: center;
     color: white;
