@@ -32,4 +32,5 @@ header{
 .texto h1 {
     display: flex;
     justify-content: center;
+    padding: 10%;
 }
