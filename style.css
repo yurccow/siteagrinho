@@ -24,3 +24,8 @@ header{
     color: white;
     font-size: 50%;
 }
+
+.subtitle {
+    padding: 20%;
+    margin: 20% 0;
+}
