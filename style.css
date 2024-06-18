@@ -19,7 +19,7 @@ header{
 
 .titulo {
     display: flex;
-    align-items: first baseline;
+    align-items: center;
     justify-content: center;
     color: white;
 }
