@@ -17,12 +17,14 @@ header{
 
 .img {
     width: 20%;
+    display: flex;
+    align-items: flex-start;
 }
 
 .titulo {
     display: flex;
-    align-items: end;
-    justify-content: flex-start;
+    align-items: center;
+    justify-content: center;
     color: white;
     font-size: 10px;
 }
