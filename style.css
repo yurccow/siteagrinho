@@ -28,3 +28,8 @@ header{
     color: white;
     font-size: 10px;
 }
+
+.texto h1 {
+    display: flex;
+    justify-content: center;
+}
