@@ -15,5 +15,6 @@ header{
 .titulo{
     background-color: black;
     width: 500;
+    display: flex;
 }
 
