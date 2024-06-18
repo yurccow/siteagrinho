@@ -33,11 +33,12 @@ header{
 .text {
     padding: 1%;
     margin: 2px 0;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .imginfo {
     width: 30%;
+    margin-right: 3%;
 }
 
 .cointainer{
