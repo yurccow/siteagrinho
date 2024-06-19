@@ -16,6 +16,12 @@ header{
     grid-template-columns: 20% 60% 20%;
 }
 
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
 .img {
     width: 20%;
 }
