@@ -18,13 +18,12 @@ header{
 
 .container{
     display: flex;
-    align-items: center;
-    justify-content: flex-start;
+    align-items: flex-start;
+    justify-content: center;
 }
 
 .img {
     width: 20%;
-    justify-content: center;
 }
 
 .titulo {
