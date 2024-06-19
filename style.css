@@ -14,7 +14,7 @@ header{
     display: grid;
     align-items: center;
     justify-content: space-around;
-    grid-template-columns: 20% 60% 20%;
+    grid-template-columns: 10% 70% 20%;
     margin: 1%;
 }
 
