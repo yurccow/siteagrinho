@@ -58,3 +58,9 @@ header{
     justify-content: flex-end;
 }
 
+.textpre {
+    padding: 1%;
+    margin: 2px 0;
+    font-size: 5%;
+}
+
