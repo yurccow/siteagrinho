@@ -10,67 +10,8 @@ body{
 
 
 header{
-    position: sticky;
-    top: 0px;
-    background-color: rgb(0, 0, 0);
-    align-items: center;
-    justify-content: space-around;
-    grid-template-columns: 20% 60% 20%;
-}
-
-.nav{
-    position: sticky;
-    top: 0px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.img {
-    width: 20%;
-}
-
-.titulo {
-    color: white;
-    font-size: 30px;
-}
-
-.img2 {
-    width: 5%;
-}
-
-.subtitle {
-    padding: 1%;
-    margin: 2px 0;
-    font-size: 30px;
-}
-
-.text {
-    padding: 1%;
-    margin: 2px 0;
-    font-size: 20px;
-}
-
-.imginfo {
-    width: 30%;
-    margin-right: 3%;
-}
-
-.cointainer{
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-}
-
-.textpre {
-    padding: 1%;
-    margin: 2px 0;
-    font-size: 20px;
-}
-
-.textsub {
-    padding: 1%;
-    margin: 2px 0;
-    font-size: 23px;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
 }
 
