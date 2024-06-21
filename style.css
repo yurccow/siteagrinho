@@ -21,11 +21,6 @@ header{
     padding:0 5%;  
 }
 
-.imga{
-    display: flex;
-    justify-content: center;
-}
-
 nav{
     display: flex;
     align-items: center;
