@@ -42,29 +42,3 @@ nav ul a{
   padding: 0px;
 
 }
-
-.arrumar{
-  display: flex;
-  align-items: center;
-  margin: 10%;
-
-}
-
-.amor{
-  width: 50%;
-}
-
-.amortexto{
-  color: #ffffff;
-}
-
-.amor2{
-  width: 30%;
-}
-
-.arrumar2{
-  display: flex;
-  align-items: center;
-  margin: 30%;
-
-}
