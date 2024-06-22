@@ -8,8 +8,8 @@
   font-family: 'Montserrat' , sans-serif;
 }
 body{
-  background-color: rgba(32, 92, 66, 0.19);
-  background-color: #9db19e;
+  background-color: rgba(0, 0, 0, 0.19);
+  background-color: #000000;
 }
 section,footer{
   padding: 54px 0;
@@ -138,6 +138,6 @@ nav ul a:hover::after{
 }
 /* footer*/
 .footer{
-  background-color: #000000;
+  background-color: #772c2c;
   text-align: center;
 }
