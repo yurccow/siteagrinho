@@ -46,6 +46,7 @@ nav ul a{
 .arrumar{
   display: flex;
   align-items: center;
+  margin: 10%;
 
 }
 
