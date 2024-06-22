@@ -59,3 +59,8 @@ nav ul a{
 .amor2{
   width: 10%;
 }
+
+.arrumar{
+  display: flex;
+  align-items: flex-end;
+}
