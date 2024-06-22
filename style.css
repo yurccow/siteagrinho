@@ -38,14 +38,14 @@ p{
   animation:"animacao-outline" 1s ease-out infinite;
 }
 .btn:hover{
-  background-color: rgba(0, 0, 0, 0.98);
+  background-color: rgba(0, 25, 248, 0.98);
 }
 @keyframes animacao-outline {
   from{
 outline: 0px solid #ffffff;
   }
   to{
-outline: 13px solid rgba(0, 0, 0, 0.16);
+outline: 13px solid rgba(2, 117, 108, 0.16);
   }
 }
 header{
