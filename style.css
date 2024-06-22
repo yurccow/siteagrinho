@@ -8,8 +8,8 @@
   font-family: 'Montserrat' , sans-serif;
 }
 body{
-  background-color: rgba(0, 0, 0, 0.19);
-  background-color: #000000;
+  background-color: rgba(32, 92, 66, 0.19);
+  background-color: #9db19e;
 }
 section,footer{
   padding: 54px 0;
@@ -112,13 +112,13 @@ nav ul a:hover::after{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #000000;
+  background-color: #9db19e;
 
 }
 .faca-mais .faca-mais-text{
   width:50%;
   padding: 0 30px;
-  background-color: #ffffff;
+  background-color: #699677;
   border-radius: 20px;
 }
 .faca-mais .faca-mais-text h3{
@@ -126,7 +126,7 @@ nav ul a:hover::after{
 }
 .faca-mais .faca-mais-text p{
   margin: 5px 0px 10px 0;
-  color: rgb(255, 255, 255);
+  color: black;
 }
 .faca-mais .faca-mais-img{
   width: 50%;
@@ -138,6 +138,6 @@ nav ul a:hover::after{
 }
 /* footer*/
 .footer{
-  background-color: #772c2c;
+  background-color: #415848;
   text-align: center;
 }
