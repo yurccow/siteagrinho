@@ -38,7 +38,7 @@ p{
   animation:"animacao-outline" 1s ease-out infinite;
 }
 .btn:hover{
-  background-color: rgba(0, 25, 248, 0.98);
+  background-color: rgba(95, 16, 16, 0.98);
 }
 @keyframes animacao-outline {
   from{
