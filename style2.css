@@ -42,3 +42,16 @@ nav ul a{
   padding: 0px;
 
 }
+
+.arrumar{
+  display: flex;
+  align-items: flex-start;
+}
+
+.amor{
+  width: 50%;
+}
+
+.amortexto{
+  color: #ffffff;
+}
