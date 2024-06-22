@@ -45,6 +45,7 @@ nav ul a{
 
 .arrumar{
   display: flex;
+  align-items: center;
 
 }
 
@@ -54,6 +55,8 @@ nav ul a{
 
 .amortexto{
   color: #ffffff;
+  display: flex;
+  align-items: center;
 }
 
 .amor2{
