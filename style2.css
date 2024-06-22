@@ -44,9 +44,9 @@ nav ul a{
 }
 
 .arrumar{
-  display: flex;
+  display: inline-block;
   align-items: center;
-  justify-content: center;
+
 }
 
 .amor{
