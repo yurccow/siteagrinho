@@ -83,6 +83,12 @@ nav ul a:not(.btn)::after{
 nav ul a:hover::after{
   width: 100%;
 }
+
+.barra{
+    background-color: black;
+    padding: 0px;
+    
+}
 .banner{
   display: flex;
   justify-content: center;
