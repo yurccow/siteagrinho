@@ -13,6 +13,10 @@ section,footer{
     padding: 54px 0;
 }
 
+h1{
+  color: #ffffff;
+}
+
 nav{
   display: flex;
   align-items: center;
