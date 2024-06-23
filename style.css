@@ -87,7 +87,9 @@ nav ul a:hover::after{
 .cabeca{
     background-color: black;
     padding: 0px;
-  
+}
+.logo{
+  width: 70%;
 }
 .banner{
   display: flex;
