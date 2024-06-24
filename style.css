@@ -117,7 +117,7 @@ nav ul a:hover::after{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(95, 16, 16, 0.98)
+  background-color: linear-gradient(to right, rgba(95, 16, 16, 0.98) white);
 
 }
 .faca-mais .faca-mais-text{
