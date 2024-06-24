@@ -15,7 +15,7 @@ section,footer{
   padding: 54px 0;
 }
 h3{
-  font-size: 50px;
+  font-size: 40px;
   color: #ffffff;
 }
 p{
@@ -94,6 +94,7 @@ nav ul a:hover::after{
 .cabeca2{
   background-color: black;
   padding: 0px;
+  align-items: center;
 }
 .logo{
   width: 70%;
