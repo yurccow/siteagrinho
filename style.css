@@ -8,8 +8,8 @@
   font-family: 'Montserrat' , sans-serif;
 }
 body{
-  background-color: rgba(0, 0, 0, 0.19);
-  background-color: #ffffff;
+  background-color: rgba(0, 0, 0, 0);
+  background-color: #000000;
 }
 section,footer{
   padding: 54px 0;
@@ -117,7 +117,7 @@ nav ul a:hover::after{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #9db19e;
+  background-color: rgba(95, 16, 16, 0.98)
 
 }
 .faca-mais .faca-mais-text{
