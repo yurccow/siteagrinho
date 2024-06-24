@@ -64,7 +64,6 @@ nav{
 nav ul{
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 nav ul a{
   color: #ffffff;
@@ -96,6 +95,7 @@ nav ul a:hover::after{
   background-color: black;
   padding: 0px;
   align-items: center;
+  justify-content: center;
 }
 .logo{
   width: 70%;
