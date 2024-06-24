@@ -90,6 +90,10 @@ nav ul a:hover::after{
     position: sticky;
     top: 0;
 }
+.cabeca2{
+  background-color: black;
+  padding: 0px;
+}
 .logo{
   width: 70%;
 }
