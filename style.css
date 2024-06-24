@@ -94,6 +94,7 @@ nav ul a:hover::after{
 .cabeca2{
   background-color: black;
   padding: 0px;
+  display: flex;
   align-items: center;
   justify-content: center;
 }
