@@ -127,25 +127,6 @@ outline: 0px solid #ffffff;
 outline: 13px solid rgba(2, 117, 108, 0.16);
   }
 }
-
-av{
-  display: flex;
-  align-items: center;
-  justify-content:space-between ;
-  padding-top: 30px;
-
-}
-nav ul{
-  display: flex;
-  align-items: center;
-}
-nav ul a{
-  color: #ffffff;
-  margin:0 25px;
-  text-transform: uppercase;
-  font-size: 14px;
-  display: block;
-}
 nav ul a:not(.btn)::after{
   content: "";
   background-color: #ffffff;
@@ -164,4 +145,8 @@ nav ul a:hover::after{
   background-color: black;
   padding: 0px;
 
+}
+
+.logo{
+  width: 70%;
 }
