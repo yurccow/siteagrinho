@@ -17,6 +17,7 @@ section,footer{
 h3{
   font-size: 40px;
   color: #ffffff;
+  text-align: center;
 }
 p{
   color: rgb(255, 255, 255);
@@ -95,7 +96,7 @@ nav ul a:hover::after{
   background-color: black;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 .logo{
   width: 70%;
