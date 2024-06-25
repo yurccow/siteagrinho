@@ -76,3 +76,23 @@ nav ul a:hover::after{
 .logo{
   width: 70%;
 }
+
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #000000;
+  flex-direction: column;
+}
+
+.text{
+  font-size: 45px;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+
+.paragrafo{
+  color: #ffffff;
+  margin-bottom: 50px;
+}
