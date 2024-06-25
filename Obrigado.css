@@ -87,7 +87,7 @@ nav ul a:hover::after{
 }
 
 .text{
-  font-size: 45px;
+  font-size: 30%; 
   color: #ffffff;
   margin-bottom: 30px;
 }
