@@ -11,14 +11,6 @@ body{
     background-color: #000000;
 }
 
-header{
-  background-color: black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-}
-
 nav{
   display: flex;
   align-items: center;
