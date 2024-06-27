@@ -75,7 +75,7 @@ form button{
   background: transparent;
   border: 2px solid #ffffff;
   color: #ffffff;
-  transition: all 1s;
+  transition: all 0.4s;
   margin-bottom: 20px;  
 }
 
@@ -127,6 +127,7 @@ outline: 0px solid #ffffff;
 outline: 13px solid rgba(2, 117, 108, 0.16);
   }
 }
+
 nav ul a:not(.btn)::after{
   content: "";
   background-color: #ffffff;

@@ -50,6 +50,30 @@ outline: 0px solid #ffffff;
 outline: 13px solid rgba(2, 117, 108, 0.16);
   }
 }
+
+.btn2{
+  background-color: rgb(255, 255, 255);
+  color: #000000;
+  padding: 15px 20px;
+  border-radius: 12px;
+  cursor: pointer;
+  display: inline-block;
+  transition: 0.1s;
+}
+.btn2.animacao-btn{
+  animation:"animacao-outline" 1s ease-out infinite;
+}
+.btn2:hover{
+  background-color: #ffffff57;
+}
+@keyframes animacao-outline {
+  from{
+outline: 0px solid #ffffff;
+  }
+  to{
+outline: 13px solid rgba(2, 117, 108, 0.16);
+  }
+}
 header{
   background-position: center;
   background-size: cover;
@@ -124,23 +148,37 @@ nav ul a:hover::after{
 .faca-mais .container{
   display: flex;
   align-items: center;
-  justify-content: center;
-  background: linear-gradient(to right, #5f1010fa, #7a4040fa);
+  text-align: center;
+  justify-content: space-between;
+  background-color: #000000;
 
 }
 .faca-mais .faca-mais-text{
-  width:50%;
-  padding: 0 30px;
-  background-color: #ffffff;
-  border-radius: 20px;
+  width:40%;
+  padding: 10px 20px;
+  background: radial-gradient(circle, rgba(140,11,11,1) 42%, rgba(73,20,20,1) 84%);
 }
 .faca-mais .faca-mais-text h3{
   font-size: 45px;
 }
 .faca-mais .faca-mais-text p{
   margin: 5px 0px 10px 0;
-  color: black;
+  color: rgb(255, 255, 255);
 }
+
+.faca-mais .faca-mais-text2{
+  width:40%;
+  padding: 10px 20px;
+  background: radial-gradient(circle, rgba(47,157,80,1) 37%, rgba(27,82,50,1) 84%);
+}
+.faca-mais .faca-mais-text2 h3{
+  font-size: 45px;
+}
+.faca-mais .faca-mais-text2 p{
+  margin: 5px 0px 10px 0;
+  color: rgb(255, 255, 255);
+}
+
 .faca-mais .faca-mais-img{
   width: 50%;
 
@@ -154,3 +192,15 @@ nav ul a:hover::after{
   background-color: #415848;
   text-align: center;
 }
+
+.imagem{
+  width: 100%;
+  margin-top: 10px;
+}
+
+.text1{
+  font-size: 10px;
+  color: #ffffff;
+  text-align: center;
+}
+
