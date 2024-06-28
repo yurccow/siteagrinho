@@ -130,7 +130,7 @@ nav ul a:hover::after{
   justify-content: center;
 }
 .banner .banner-text{
-  margin: 75px;
+  margin: 100px;
   text-align: center;
   padding: 0 50px;
   opacity: 85%;
