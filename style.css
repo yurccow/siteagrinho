@@ -207,6 +207,9 @@ flex-direction: column;
   text-align: center;
 }
 
+.linha{
+  
+}
 
 @media screen and (min-width:1024px) {
   nav{
