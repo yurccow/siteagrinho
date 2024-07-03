@@ -154,10 +154,10 @@ nav ul a:hover::after{
   text-align: center;
   justify-content: space-between;
   background-color: #000000;
-
+flex-direction: column;
 }
 .faca-mais .faca-mais-text{
-  width:40%;
+  width:100%;
   padding: 10px 20px;
   background: radial-gradient(circle, rgba(140,11,11,1) 42%, rgba(73,20,20,1) 84%);
 }
@@ -170,7 +170,7 @@ nav ul a:hover::after{
 }
 
 .faca-mais .faca-mais-text2{
-  width:40%;
+  width:100%;
   padding: 10px 20px;
   background: radial-gradient(circle, rgba(47,157,80,1) 37%, rgba(27,82,50,1) 84%);
 }
@@ -212,4 +212,16 @@ nav ul a:hover::after{
   nav{
 flex-direction: row;
   }
+
+  .faca-mais .faca-mais-text{
+    width:40%;
+  }
+
+  .faca-mais .faca-mais-text2{
+    width:40%;
+}
+
+.faca-mais .container{
+  flex-direction: row;
+}
 }
