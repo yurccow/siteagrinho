@@ -90,6 +90,8 @@ nav{
   align-items: center;
   justify-content:space-between ;
   padding-top: 30px;
+  flex-direction: column;
+  z-index: 1;
 
 }
 nav ul{
