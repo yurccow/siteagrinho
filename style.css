@@ -213,6 +213,55 @@ flex-direction: column;
   padding-bottom: 10px;
 }
 
+.titulo{
+  font-size: 40px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.subtitle{
+  font-size: 40px;
+  color: #ffffff;
+  padding-top: 40px;
+  font-family: 'Gill Sans';
+}
+
+.imgs{
+  padding-top: 50px;
+  width: 50%;
+}
+
+
+.grid{
+  display: grid;
+  text-align: center;
+  margin: 5px 10px;;;
+}
+
+.texto{
+  color: #ffffff;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (min-width:1024px) {
   nav{
 flex-direction: row;
