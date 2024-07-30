@@ -193,11 +193,6 @@ flex-direction: column;
   width: 100%;
   border-radius: 20px;
 }
-/* footer*/
-.footer{
-  background-color: #415848;
-  text-align: center;
-}
 
 .imagem{
   width: 100%;
@@ -282,21 +277,24 @@ flex-direction: column;
   padding: 30px;
 }
 
+.foot{
+  padding: 20px 0;
+  background: radial-gradient(circle, rgba(116,41,41,1) 37%, rgba(48,15,15,1) 84%);
+  text-align: center;
+}
 
+.img3{
+  width: 40px;
+}
 
+.links{
+  cursor: pointer;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+.foot h1{
+  color: #ffffff;
+  font-size: 12px;
+}
 
 @media screen and (min-width:1024px) {
   nav{
