@@ -150,6 +150,7 @@ nav ul a:hover::after{
 
 .faca-mais .container{
   display: flex;
+  flex-direction: column;
   align-items: center;
   text-align: center;
   justify-content: space-between;
@@ -273,6 +274,7 @@ flex-direction: column;
   display: flex;
   align-items: center;
   justify-content: space-around;
+  flex-direction: column;
 }
 
 .informacoes p{
@@ -312,4 +314,14 @@ flex-direction: row;
 .faca-mais .container{
   flex-direction: row;
 }
+
+.informacoes{
+  flex-direction: row;
+}
+}
+
+@media screen and (max-width:1023px) {
+  .faca-mais .faca-mais-text{
+    margin-bottom: 20px;
+  }
 }

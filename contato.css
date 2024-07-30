@@ -153,3 +153,9 @@ padding: 0px;
 .logo{
 width: 70%;
 }
+
+@media screen and (min-width:1024px) {
+  nav{
+flex-direction: row;
+  }
+}
